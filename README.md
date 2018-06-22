@@ -42,7 +42,7 @@ Any decisions you make based on this information are your responsibility and you
 
 ## License
 
-This work is licensed under the [GPLv3][GPL].
+This work is licensed under the [GPLv3][GPL], or any later version.
 
 [autotldr]: https://www.reddit.com/user/autotldr
 [uscode]: https://github.com/unitedstates/uscode
