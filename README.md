@@ -34,20 +34,17 @@ or the information or works provided hereunder.
 ### What?
 **I am not a lawyer. This is not legal advice.**
 
-If you need legal advice, I recommend you ask your local bar association for a referral to an
-attorney.
-
-I'm making a *summary* of the law. I'm necessarily interpreting the law. These summaries
-may not be accurate.
+If you need legal advice, I recommend you ask your local bar association for a referral
+to an attorney. I'm *summarizing* the law. I'm necessarily interpreting the law. These
+summaries may not be accurate.
 
 Any decisions you make based on this information are your responsibility and yours alone.
 
 ## License
 
-This work is licensed under [CC0][CC0], and is dedicated to the public domain
-to the extent allowed by law.
+This work is licensed under the [GPLv3][GPL].
 
 [autotldr]: https://www.reddit.com/user/autotldr
 [uscode]: https://github.com/unitedstates/uscode
 [pipenv]: https://docs.pipenv.org/
-[CC0]: https://creativecommons.org/publicdomain/zero/1.0
+[GPL]: https://www.gnu.org/licenses/gpl.html
